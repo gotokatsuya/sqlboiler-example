@@ -1,0 +1,9 @@
+pkgname="sqlboiler"
+output="domain/sqlboiler"
+[mysql]
+  dbname = "sqlboiler"
+  host   = "localhost"
+  port   = 3306
+  user   = "sqlboiler"
+  pass   = "sqlboiler"
+  sslmode = "false"
